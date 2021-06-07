@@ -8,7 +8,7 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 
 #%%
 
-def thingSpeakWrite( Field_num, Data, Write_API_KEY= '<your thingspeak's write API key>' ):
+def thingSpeakWrite( Field_num, Data, Write_API_KEY= "<your thingspeak's write API key>" ):
     string='';
     for f,d in zip(Field_num, Data):
         string+='&field'+str(f)+'='+str(d)
