@@ -24,3 +24,9 @@ In this project we can detect if a person is wearing a mask or not.
 #
 ## 
 ![image](https://user-images.githubusercontent.com/84563214/121014578-c4d26f00-c7b7-11eb-8e5b-38184f8cb8b9.png)
+
+#
+### *Some Results*
+![image](https://user-images.githubusercontent.com/84563214/121022978-78d7f800-c7c0-11eb-9e49-34d4edf95413.png)
+![image](https://user-images.githubusercontent.com/84563214/121023418-e3893380-c7c0-11eb-8ca6-427a1eba9d68.png)
+
