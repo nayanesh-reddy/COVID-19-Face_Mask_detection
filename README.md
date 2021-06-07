@@ -6,12 +6,15 @@ In this project we can detect if a person is wearing a mask or not.
     - Used to detect a human faces in an image and also used to localize the face in that image
     - can detect human faces in unconstrained environment which is challenging due to various poses, illuminations and occlusions
  
- Install in python uisng
+        Install in python uisng
            
            pip install mtcnn
- Visit https://pypi.org/project/mtcnn/ for further information
+           
+        Visit https://pypi.org/project/mtcnn/ for further information
 
-  2) Teachable Machine is used for Training the Mask detection model ( https://teachablemachine.withgoogle.com/train/image )
+  2) Teachable Machine is used for Training the Mask detection model 
+  
+     https://teachablemachine.withgoogle.com/train/image
 
 #
 ## Block Diagram:
