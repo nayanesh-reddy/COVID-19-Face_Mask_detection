@@ -11,8 +11,7 @@ In this project we can detect if a person is wearing a mask or not.
            pip install mtcnn
  Visit https://pypi.org/project/mtcnn/ for further information
 
-  2) Teachable Machine is used for Training the Mask detection model
- 
+  2) Teachable Machine is used for Training the Mask detection model ( https://teachablemachine.withgoogle.com/train/image )
 
 #
 ## Block Diagram:
