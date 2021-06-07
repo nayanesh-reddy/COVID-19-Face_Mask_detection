@@ -1,4 +1,4 @@
-# COVID-19-face-mask-detection
+# COVID-19-Face_Mask_detection
 
 In this project we can detect if a person is wearing a mask or not.
    
